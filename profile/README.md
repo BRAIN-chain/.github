@@ -11,6 +11,8 @@ BRAIN offers a groundbreaking solution that enhances decentralized AI by merging
 
 ---
 
+For an in-depth exploration of BRAIN, see the detailed research at [https://arxiv.org/abs/2305.04062](https://arxiv.org/abs/2305.04062).
+
 ## 🛠 Projects and Repositories
 BRAIN's ecosystem comprises several projects focused on AI model training and inference evaluation, as well as smart contract development for secure and efficient operations.
 
