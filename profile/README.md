@@ -1,3 +1,11 @@
+# FRAIN: Fast-and-Reliable AI Network
+
+> _Frain to Train_
+
+TBD
+
+---
+
 # BRAIN: Blockchain-based Reliable AI Network
 
 Welcome to BRAIN, a pioneering Blockchain-based Reliable AI Network that aims to revolutionize the way AI models are trained and executed, ensuring transparency, reliability, and efficiency.
@@ -8,8 +16,6 @@ BRAIN offers a groundbreaking solution that enhances decentralized AI by merging
 - **Two-Phase Transaction Execution**: Enhances blockchain performance by allowing pipelining among inference/training transactions and regular transactions.
 - **Asynchronous Aggregator-Free Federated Learning**: Implements an innovative asynchronous federated learning algorithm that does not require a central aggregator, ensuring privacy and scalability.
 - **Scalable Verification**: Employs a verifiable randomly selected committee for scalable verification of inference and training processes, achieving consensus through smart contracts.
-
----
 
 For an in-depth exploration of BRAIN, see the detailed research at [https://arxiv.org/abs/2305.04062](https://arxiv.org/abs/2305.04062).
 
