@@ -2,7 +2,12 @@
 
 > _Frain to Train_
 
-TBD
+FRAIN introduces a novel decentralized federated learning method designed to enhance robustness and efficiency in asynchronous training environments. Building upon BRAIN's decentralized architecture, FRAIN integrates two innovative strategies:
+
+* **FastSync**: Quickly approximates the global model using only recent updates, significantly reducing synchronization overhead for newly joining or returning participants.
+* **SLERP-based Model Merging**: Employs spherical linear interpolation to preserve directional information in model parameters, effectively mitigating performance degradation caused by divergent updates or stale contributions.
+
+Explore the detailed methodology and experimental results in the full paper at [https://arxiv.org/abs/2505.04223](https://arxiv.org/abs/2505.04223).
 
 ---
 
